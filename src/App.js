@@ -1,8 +1,8 @@
 import "./App.css";
-import IterationSample from "./IterationSample";
+import Info from "./Info";
 
 const App = () => {
-  return <IterationSample />;
+  return <Info />;
 };
 
 export default App;
